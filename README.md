@@ -11,7 +11,7 @@ The xAPI protocol is only _rudimentarily_ implemented:
   * Version
   * Ping
 * Stream:
-  * getTickPrices mit sample stockdata Nasdaq 100, Russell 2000, Dow Jones, S&P 500     
+  * getTickPrices mit sample ask/bid data for Nasdaq 100, Russell 2000, Dow Jones, S&P 500     
 
 ## Start Demo
 
